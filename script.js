@@ -1,6 +1,6 @@
 const quizData = [
   {
-    question:"1.Which language runs in a web browser?",
+    question:"Which language runs in a web browser?",
        a: "Java",
         b: "C",
         c: "Python",
@@ -8,7 +8,7 @@ const quizData = [
         correct: "d",
     },
     {
-        question: "2.What does CSS stand for?",
+        question: "What does CSS stand for?",
         a: "Central Style Sheets",
         b: "Cascading Style Sheets",
         c: "Cascading Simple Sheets",
@@ -16,7 +16,7 @@ const quizData = [
         correct: "b",
     },
     {
-        question: "3.Suppose we have a text "human" that we want to convert into string without using the "new" operator. Which is the correct way from the following to do so:",
+        question: "Suppose we have a text "human" that we want to convert into string without using the "new" operator. Which is the correct way from the following to do so:",
         a: "toString()",
         b: "String(human)",
         c: "String newvariable="human"",
@@ -24,7 +24,7 @@ const quizData = [
         correct: "d",
     },
     {
-        question: "4.Which of the following one is the property of the primary expression:",
+        question: "Which of the following one is the property of the primary expression:",
         a: "Contains only keywords",
         b: "basic expressions containing all necessary functions",
         c: "contains variable references alone",
@@ -32,7 +32,7 @@ const quizData = [
         correct: "d",
     },
     {
-        question: "5.Which one of the following is an ternary operator:",
+        question: "Which one of the following is an ternary operator:",
         a: "?",
         b: ":",
         c: "-",
@@ -40,7 +40,7 @@ const quizData = [
         correct: "a",
     },
     {
-        question: "6.What are the three important manipulations for a loop on a loop variable?",
+        question: "What are the three important manipulations for a loop on a loop variable?",
         a: "Updation, Incrementation, Initialization",
         b: "Initialization, Testing, Incrementation",
         c: "Testing, Updation, Testing",
@@ -48,7 +48,7 @@ const quizData = [
         correct: "d",
     },
     {
-        question: "7.Which of the following tag is used to define options in a drop-down selection list?",
+        question: "Which of the following tag is used to define options in a drop-down selection list?",
         a: "<select>",
         b: "<list>",
         c: "<dropdown>",
@@ -56,7 +56,7 @@ const quizData = [
         correct: "d",
     },
     {
-        question: "8.The CSS property which is used to set the text wider or narrower compare to the default width of the font is -",
+        question: "The CSS property which is used to set the text wider or narrower compare to the default width of the font is -",
         a: "font-stretch property",
         b: "font-weight property",
         c: "text-transform property",
@@ -64,15 +64,15 @@ const quizData = [
         correct: "a",
     },
     {
-        question: "9.What does HTML stand for?",
+        question: "What does HTML stand for?",
         a: "Hypertext Markup Language",
         b: "Hypertext Markdown Language",
         c: "Hyperloop Machine Language",
         d: "Helicopters Terminals Motorboats Lamborginis",
         correct: "a",
-    },  
+    },
     {
-        question: "10.What year was JavaScript launched?",
+        question: "1What year was JavaScript launched?",
         a: "1996",
         b: "1995",
         c: "1994",
